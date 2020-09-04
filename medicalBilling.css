@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+@font-face {
+    font-family:light;
+    src: url("./Fonts/Mostardesign\ -\ Sofia\ Pro\ Light.otf") format("opentype");
+    }
+    @font-face {
+        font-family:nexaBold;
+        src: url("./Fonts/nexa/Nexa\ Bold.otf") format("opentype");
+        }
+        @font-face {
+            font-family:nexaLight;
+            src: url("./Fonts/nexa/Nexa\ Light.otf") format("opentype");
+            }
+            @font-face {
+                font-family:raleway;
+                src: url("./Fonts/Raleway-ExtraBold.ttf") format("opentype");
+                }
+    h1,h2,h3,h4,h5,h6,p,a,container,.card-content{
+        font-family:light;
+    }
+.background{
+    background-image: url("./Pics/architecture-bridge-brooklyn-bridge-421927.jpg" );
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.padding{
+    margin-top:20px;
+}
+.card-title1{
+    color:rgb(0, 40, 58);
+}
+.card-title2{
+    color:rgb(0, 59, 20); 
+}
+.card-title3{
+    color:rgb(33, 0, 41); 
+}
+.icon-img{
+    width:150px;
+    height:150px;
+    margin-top:10%;
+    transition:0.5s;
+}
+.icon-img:hover{
+    width:180px;
+    height:160px;
+    margin-top:10%;
+    
+}
+.card{
+    height:250px;
+    width:500px;
+    transition:0.5s;
+}
+.card:hover {
+    box-shadow:0px 0px 10px black;
+    height:260px;
+    width:510px;
+
+    }
+    
+.card-right-content1{
+    width: 47.5%;
+    border-top-right-radius: 2%;
+    border-bottom-right-radius: 2%;
+    color:white;
+    background-color:#054890;
+}
+.card-right-content2{
+    width: 47.5%;
+    border-top-right-radius: 2%;
+    border-bottom-right-radius: 2%;
+    color:white;
+    background-color:#054890;
+}
+
+.card-right-content3{
+    width: 47.5%;
+    border-top-right-radius: 2%;
+    border-bottom-right-radius: 2%;
+    color:white;
+    background-color:#054890;
+}
+
+.card-right-content4{
+    width: 47.5%;
+    border-top-right-radius: 2%;
+    border-bottom-right-radius: 2%;
+    color:white;
+    background-color:#054890;
+}
+
+.card-right-content5{
+    width: 47.5%;
+    border-top-right-radius: 2%;
+    border-bottom-right-radius: 2%;
+    color:white;
+    background-color:#054890;
+}
+.card-right-content6{
+    width: 47.5%;
+    border-top-right-radius: 2%;
+    border-bottom-right-radius: 2%;
+    color:white;
+    background-color:#054890;
+}
+
+.card-left-img{
+    width:50%;
+}
+
+.nav-link{
+    color:white !important;
+}
+
+.card-content{
+    margin-top:13%;
+line-height:200%;
+}
+.card-content1{
+    margin-top:20%;
+    line-height:300%;
+}
+li{
+    padding-bottom:10px;
+}
+ul{
+           
+    
+    
+}
+footer{
+    color:white;
+    background-color:rgb(31, 31, 31);
+}
+.nav-item{
+    padding-right:25px;
+}
+.btn-outline-success{
+    color:rgb(0, 74, 109);
+    border-color:rgb(0, 74, 109);
+}
+.btn-outline-success:hover{
+    background-color:rgb(0, 74, 109);
+    color:white;
+    border-color:rgb(0, 74, 109);
+}
+.nav-item:hover{
+    text-shadow:2px 2px 2px black;
+}
+.roboto{
+    font-family: 'Roboto', sans-serif;
+    color:rgb(187, 187, 187);
+}
+.nav-brand{
+    color:white !important;
+    text-shadow: 2px 2px 2px black !important;
+}
+.alegreya{
+font-family: 'Alegreya Sans SC', sans-serif;
+}
+.michroma{
+font-family: 'Michroma', sans-serif;
+}
+.coromomt{
+font-family: 'Cormorant Garamond', serif;
+}
+.amira{
+    font-family: 'Amiri', serif;
+}
+.pphead{
+    text-shadow:1px 1px 1px rgb(39, 39, 39);
+font-family: 'Marck Script', cursive;
+font-size:25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
